@@ -121,7 +121,7 @@ GitHubアプリを使用することで、Slack内の指定したチャンネル
 
 Issueに関する通知はSlackへ通知できることを確認。
 
-![gh-slack][./github-slack.png]
+![gh-slack](./github-slack.png)
 
 ### Google Spreadsheet
 
